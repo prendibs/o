@@ -49,7 +49,7 @@
                 "[resourceId('Microsoft.Network/virtualNetworks/', variables('virtualNetworkName'))]"
             ],
             "sku": {
-                "name": "Standard_F2s_v2",
+                "name": "Standard_DS2_v2",
                 "tier": "Standard",
                 "capacity": 6
             },
